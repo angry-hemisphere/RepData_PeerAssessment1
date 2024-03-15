@@ -65,7 +65,7 @@ Therefore we are using the 'hist()' function from base-r. In this case, it was c
 hist(steps_daily$steps_day ,breaks = 20)
 ```
 
-![plot of chunk unnamed-chunk-13](figure/unnamed-chunk-13-1.png)
+![plot of chunk unnamed-chunk-13](unnamed-chunk-13-1.png)
 
 ### Calculate and report the mean and median total number of steps taken per day
 
